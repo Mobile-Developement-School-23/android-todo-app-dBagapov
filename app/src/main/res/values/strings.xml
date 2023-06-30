@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AddButtonDescript">AssNotice</string>
+    <string name="addButtonText">Добавление дела</string>
+    <string name="header">Список дел</string>
+    <string name="deadline">дедлайн</string>
+    <string name="changeImage">Изменить дело</string>
+    <string name="notice">Текст дела</string>
+    <string name="inputText">Введите текст..</string>
+    <string name="deadlineText">Дедлайн</string>
+    <string name="delete">Удалить</string>
+    <string name="Back">Назад</string>
+    <string name="Save">Сохранить</string>
+    <string name="importance">Важность</string>
+</resources>
